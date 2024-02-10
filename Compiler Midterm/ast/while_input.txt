@@ -1,0 +1,3 @@
+begin
+    while d > 0 do d := d * 2
+end

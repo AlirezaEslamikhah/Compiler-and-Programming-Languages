@@ -1,0 +1,23 @@
+program TestProgram
+var
+    a : int
+    b : int
+    f : int
+begin
+    a := 10
+    b := 6
+    switch (a)
+    {
+        case 10 :begin
+            a := a + 2
+            end
+        case 8 :begin
+            a := b
+            end
+        case 7 : begin
+            b := 100
+            end
+    }
+    output := a
+
+end

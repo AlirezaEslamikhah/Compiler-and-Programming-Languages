@@ -1,0 +1,20 @@
+program TestProgram
+var
+    a : int
+    b : int
+    c : int
+    d : int
+    e : int
+    f : int
+begin
+    f := 44
+    if f <= 45 then
+    begin
+    f:= f -45
+    output := f
+    end
+    else
+    output := 88
+
+
+end

@@ -1,0 +1,9 @@
+program Test
+var
+  d : int
+  e : float
+  u : string
+begin
+    while d > 0 do d := d * 2
+    d = d + 1
+end

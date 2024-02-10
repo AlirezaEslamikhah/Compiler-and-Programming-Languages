@@ -1,0 +1,25 @@
+#asdasdasd
+if(x > 10){
+int x = 5;
+while(Z < 20){
+    #line1
+    int y;
+    #adad
+}
+}
+while(x > 10){
+    while(x > 10){
+    while(x > 10){
+    while(x > 10){
+
+}
+}
+}
+}
+while(x > 10){
+    while(x > 10){
+    while(x > 10){
+
+}
+}
+}

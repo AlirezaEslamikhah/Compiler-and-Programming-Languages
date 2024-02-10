@@ -1,0 +1,10 @@
+program Test
+var
+  i : int
+  x : int
+  e : float
+  u : string
+begin
+    for i := 1 to 5 do x := x + 1
+    x := i*i
+end

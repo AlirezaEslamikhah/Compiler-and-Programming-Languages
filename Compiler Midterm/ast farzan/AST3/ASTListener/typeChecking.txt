@@ -1,0 +1,12 @@
+program Test
+var
+  a : int
+  b : int
+  c : int
+  d : int
+  e : float
+  f : float
+  u : string
+begin
+    e = a + b
+end
